@@ -34,3 +34,5 @@ def main():
     else:
         print("Good job! you have saved: ",remaining)
     
+if __name__ == "__main__":
+    main()
