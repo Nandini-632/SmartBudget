@@ -1,4 +1,6 @@
 #budgetting code for students
+import tkinter as tk
+from tkinter import ttk, messagebox
 def main():
     print("Welcome to SmartBudget!")
     try:
