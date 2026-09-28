@@ -2,21 +2,21 @@
 
 An interactive command-line budgeting application built in Python that helps users track their monthly income, log categorized expenses, and view a detailed financial summary.
 
-📌 Project Overview
+Project Overview:
 SmartBudget is a lightweight financial tool designed to simplify personal budget tracking. Users can input their total monthly income and dynamically log multiple expenses under specific categories (e.g., food, rent, entertainment). The system continuously aggregates the data to provide an instant health check on the user's spending habits, alerting them if they are overspending or hitting their financial goals.
 
-🚀 Features
+Features:
 Dynamic Expense Logging: Enter multiple expenses continuously until you type 'done'.
 Smart Aggregation: Automatically groups and sums duplicate categories (e.g., entering 'food' multiple times combines the total).
 Input Validation: Error handling protects against invalid inputs like alphabetic characters or negative financial numbers.
 Financial Health Alerts: Instantly flags if you have exceeded your budget or spent 100% of your cash.
 Formatted Outputs: Cleans up currency calculations using proper decimal formatting (`.2f`).
 
-🛠️ Technologies & Tools Used
+Technologies & Tools Used:
 Language: Python 3.x
 Core Concepts: Modular programming, Exception handling (`try-except`), Data structures (Dictionaries), Loop control.
 
-💻 Steps to Install & Run the Project
+Steps to Install & Run the Project:
 
 Prerequisites: 
 Make sure you have **Python 3** installed on your machine. You can check by running:
@@ -42,7 +42,7 @@ python main.py
 
 ---
 
-🧪 Instructions for Testing
+Instructions for Testing:
 
 To verify that the application handles errors and calculations correctly, test the following scenarios:
 
@@ -62,7 +62,7 @@ To verify that the application handles errors and calculations correctly, test t
 
 ---
 
- 📸 Screenshots
+ Screenshots:
 
 Application Walkthrough: 
 <img width="533" height="421" alt="Screenshot 2026-09-28 225455 bob" src="https://github.com/user-attachments/assets/952128f5-b3e3-44de-b5c6-9b91bdf66c22" />
